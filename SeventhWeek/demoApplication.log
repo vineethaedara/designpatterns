@@ -1,0 +1,27 @@
+[main] DEBUG StructuralPatterns.ProxyPatternClient  - Debugging started in StrategyPatternDemo
+[main] WARN  StructuralPatterns.ProxyPatternClient  - Please enter two values(in float)
+[main] WARN  StructuralPatterns.ProxyPatternClient  - Please enter two values(in float)
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Addition class started....
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Addition class started....
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Subtraction class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Multiplication class started
+[main] WARN  StructuralPatterns.ProxyPatternClient  - Please enter two values(in float)
+[main] WARN  StructuralPatterns.ProxyPatternClient  - Please enter two values(in float)
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Addition class started....
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Subtraction class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Multiplication class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Addition class started....
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Subtraction class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Multiplication class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Addition class started....
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Subtraction class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Multiplication class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Modular division class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Addition class started....
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Subtraction class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Multiplication class started
+[main] INFO  StructuralPatterns.ProxyPatternClient  - Modular division class started
+[main] DEBUG CreationalPatterns.ObjectPoolDemo  - Debugging started in ObjectPoolDemo
+[main] INFO  CreationalPatterns.ObjectPoolDemo  - Executing 8 tasks in separate threads
+[main] DEBUG StructuralPatterns.ProxyPatternClient  - Debugging started in ProxyPatternClient
+[main] DEBUG StructuralPatterns.ProxyPatternClient  - Debugging started in ProxyPatternClient
